@@ -1,0 +1,1 @@
+print('Lipa na mpesa')
