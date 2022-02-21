@@ -32,8 +32,8 @@ def lipa_na_mpesa():
         "PartyB": keys.business_short_code,
         "PhoneNumber": keys.phone_number,
         "CallBackURL":"https://mydomain.com/pat",
-        "AccountReference":"Lipa na Mpesa Test Push",
-        "TransactionDesc":""
+        "AccountReference":"Ness cakes mpesa",
+        "TransactionDesc":"Lipa na Mpesa Test STK Push"
     }
 
     response = requests.post(api_url, json = request, headers = headers)
