@@ -38,8 +38,8 @@ def lipa_na_mpesa():
         "PartyA": keys.phone_number,
         "PartyB": keys.business_short_code,
         "PhoneNumber": keys.phone_number,
-        "CallBackURL": "https://nesscakes.com/pat",
-        "AccountReference": "5514749",
+        "CallBackURL": "https://mydomain.com/pat",
+        "AccountReference": 5514749,
         "TransactionDesc": "Ness Cakes Bakery"
     }
 
